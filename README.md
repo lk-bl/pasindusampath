@@ -1,24 +1,22 @@
 
-<h1 align="center">Dσ  Sσɱҽƚԋιɳɠ  Tԋαƚ  Nσ  Oɳҽ   Cαɳ  Iɱαɠιɳҽ
-</h1>
+<h1 align="center">Dσ  Sσɱҽƚԋιɳɠ  Tԋαƚ  Nσ  Oɳҽ   Cαɳ  Iɱαɠιɳҽ</h1>
 <h1 align="center">Hi 👋, I'm 👽</h1>
-<h3 align="center">a Student , a Tutor , an Associate Software Engineer</h3>
+<h3 align="center">A Student, A Tutor, An Associate Software Engineer</h3>
 
 
 <img src = "https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 # 💫 About Me:
 
-- 👨‍💻 Visit My <a href="https://pasindusampath.netlify.app/">PORTFOLIO</a><br><br>-
-- 💬 Ask me about **JAVA,JAVAFX,MYSQL,Hibernate,Javascript,HTML,CSS**<br><br>-
-- 📫 How to reach me **pasindub32@gmail.com**<br>-
+- 👨‍💻 Visit My <a href="https://pasindusampath.netlify.app/">PORTFOLIO</a><br><br>
+- 💬 Ask me about : **JAVA, JAVAFX, MYSQL, Hibernate, Javascript, HTML, CSS**<br><br>
+- 📫 How to reach me : <a href="mailto:pasindub32@gmail.com">pasindub32@gmail.com</a><br>
 
 ##
 <img src="https://imgur.com/TLpZ1jf.png" width=50px> 
 <h3><a href="https://www.upwork.com/freelancers/~0122d452089b50541e">Hire Me</a></h3>
 
 ##
-<a></a>
 </>CODEIUM
 
 <img src = 'wrapped2023.png'>
@@ -27,7 +25,6 @@
 [![streak](https://codeium.com/badges/v2/user/pasindusampath/streak)](https://codeium.com/profile/pasindusampath)
 
 ##
-<a></a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PASINDU.T.B) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pasindu-tb) 
